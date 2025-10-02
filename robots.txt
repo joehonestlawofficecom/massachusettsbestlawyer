@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://massachusettsbestlawyer.com/sitemap.xml
